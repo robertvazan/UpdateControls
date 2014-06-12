@@ -14,9 +14,9 @@ using System;
 
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Michael L Perry")]
+[assembly: AssemblyCompany("Michael L Perry (with WBP mods)")]
 [assembly: AssemblyCopyright("Copyright 2014 Michael L Perry, MIT License")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyVersion("2.3.0.0")]
-[assembly: AssemblyFileVersion("2.3.1.0")]
+[assembly: AssemblyVersion("2.3.1.1")]
+[assembly: AssemblyFileVersion("2.3.1.1")]
