@@ -18,4 +18,4 @@ using System;
 [assembly: AssemblyCopyright("Copyright 2014 Michael L Perry, MIT License")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyVersion("2.3.1.10")]
+[assembly: AssemblyVersion("2.3.1.11")]
